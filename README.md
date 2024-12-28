@@ -42,7 +42,8 @@
   <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="transformers" width="40" height="40"/> </a> 
   <a href="https://python.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="langchain" width="40" height="40"/> </a> 
   <a href="https://www.ollama.com/" target="_blank" rel="noreferrer"> <img src="https://www.ollama.com/public/ollama.png" alt="ollama" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c41422f0-2f51-4fd4-93e7-79cb8f5ee8e2" alt="flask" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/473611/flask.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="40" height="40"/> </a>
 </div>
 
 ## 📊 GitHub Stats
