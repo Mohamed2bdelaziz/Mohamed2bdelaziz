@@ -27,7 +27,7 @@
 - 📚 I’m working on developing an **AI-powered SaaS startup** focused on **B2B customer support.**
 - 💬 Ask me about **Data Science, Generative AI, and SaaS Models.**
 - 📫 How to reach me: [moaziz2060@gmail.com](mailto:moaziz2060@gmail.com)
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1ZB59_ri7JRmGavHLV3VrqhmKqJB50qOY/view?usp=drive_link)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1PZF51pf7P6IPTdD4pHVZkvtwg1x2mJM5/view?usp=drivesdk)
 
 ## 🛠️ Languages and Tools
   <div align="center">
@@ -61,12 +61,6 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/mohamed3bdelaziz" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.kaggle.com/mohamedabdelaziz187" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-    </a>
-    <a href="https://github.com/Mohamed2bdelaziz" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
     </a>
   <a href="mailto:moaziz2060@gmail.com" target="_blank">
         <img src="https://storage.googleapis.com/assets_workspace/uploads/7uffzv9dk4sn-2ANudyZddMUfBdOX8YWDbe-8da52413e8fe627a74e653f02de3e001-Gmail.svg" alt="Gmail" height="30" width="40" />
