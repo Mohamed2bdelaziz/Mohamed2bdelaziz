@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-23-blue">
+    <img src="https://img.shields.io/badge/Age-25-blue">
     <img src="https://img.shields.io/badge/Focus-NLP%20%26%20Conversational%20AI-red">
     <img src="https://img.shields.io/badge/Lives-Giza%2C%20Egypt-blue">
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Arabic-orange">
@@ -23,7 +23,7 @@
 
 ## 📖 About Me
 
-- 🌱 I’m a Data Scientist at Ericsson as part of the [Ericsson Firet Data Science & Cloud Software R&D Site in Egypt](https://www.ericsson.com/en/careers/global-locations/middle-east-africa/ai-cloud-in-egypt).
+- 🌱 I’m a Data Scientist at Ericsson as part of the [Ericsson First Data Science & Cloud Software R&D Site in Egypt](https://www.ericsson.com/en/careers/global-locations/middle-east-africa/ai-cloud-in-egypt).
 - 📚 I’m working on developing an **AI-powered SaaS startup** focused on **B2B customer support.**
 - 💬 Ask me about **Data Science, Generative AI, and SaaS Models.**
 - 📫 How to reach me: [moaziz2060@gmail.com](mailto:moaziz2060@gmail.com)
