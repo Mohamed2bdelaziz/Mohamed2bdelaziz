@@ -23,11 +23,11 @@
 
 ## 📖 About Me
 
-- 🌱 I’m currently applying for **AI Engineer**, **Machine Learning Engineer**, **Data Scientist** positions.
+- 🌱 I’m a Data Scientist at Ericsson as part of the [Ericsson Firet Data Science & Cloud Software R&D Site in Egypt](https://www.ericsson.com/en/careers/global-locations/middle-east-africa/ai-cloud-in-egypt).
 - 📚 I’m working on developing an **AI-powered SaaS startup** focused on **B2B customer support.**
 - 💬 Ask me about **Data Science, Generative AI, and SaaS Models.**
 - 📫 How to reach me: [moaziz2060@gmail.com](mailto:moaziz2060@gmail.com)
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1PZF51pf7P6IPTdD4pHVZkvtwg1x2mJM5/view?usp=drivesdk)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1udfGzUE93Tx6fBCVa_H9iCd7lDZE7Qu5/view?usp=drivesdk)
 
 ## 🛠️ Languages and Tools
   <div align="center">
